@@ -1,0 +1,713 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{DD657BEE-D33F-4343-9886-B8A2B792139F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Sekretariat.My.MyApplication</StartupObject>
+    <RootNamespace>Sekretariat</RootNamespace>
+    <AssemblyName>SekretariatINiG</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <ManifestCertificateThumbprint>C54FFBEC8C65E68B903C5E6BFB454F63ED4A32B6</ManifestCertificateThumbprint>
+    <ManifestKeyFile>
+    </ManifestKeyFile>
+    <GenerateManifests>true</GenerateManifests>
+    <SignManifests>true</SignManifests>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+    <SignAssembly>false</SignAssembly>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <AssemblyOriginatorKeyFile>SekretariatINiG_TemporaryKey.pfx</AssemblyOriginatorKeyFile>
+    <DelaySign>true</DelaySign>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>SekretariatINiG.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>SekretariatINiG.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.SqlServerCe, Version=3.5.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="dodajd.Designer.vb">
+      <DependentUpon>dodajd.vb</DependentUpon>
+    </Compile>
+    <Compile Include="dodajd.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dodajdo.Designer.vb">
+      <DependentUpon>dodajdo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="dodajdo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dodajdw.Designer.vb">
+      <DependentUpon>dodajdw.vb</DependentUpon>
+    </Compile>
+    <Compile Include="dodajdw.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dodajf.Designer.vb">
+      <DependentUpon>dodajf.vb</DependentUpon>
+    </Compile>
+    <Compile Include="dodajf.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dodajfo.Designer.vb">
+      <DependentUpon>dodajfo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="dodajfo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dodajfw.Designer.vb">
+      <DependentUpon>dodajfw.vb</DependentUpon>
+    </Compile>
+    <Compile Include="dodajfw.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dodajlpo.Designer.vb">
+      <DependentUpon>dodajlpo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="dodajlpo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dodajlpw.Designer.vb">
+      <DependentUpon>dodajlpw.vb</DependentUpon>
+    </Compile>
+    <Compile Include="dodajlpw.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dodajlzo.Designer.vb">
+      <DependentUpon>dodajlzo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="dodajlzo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dodajlzw.Designer.vb">
+      <DependentUpon>dodajlzw.vb</DependentUpon>
+    </Compile>
+    <Compile Include="dodajlzw.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dodajnrf.Designer.vb">
+      <DependentUpon>dodajnrf.vb</DependentUpon>
+    </Compile>
+    <Compile Include="dodajnrf.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dodajus.Designer.vb">
+      <DependentUpon>dodajus.vb</DependentUpon>
+    </Compile>
+    <Compile Include="dodajus.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dzlogin.Designer.vb">
+      <DependentUpon>dzlogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="dzlogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="edytujd.Designer.vb">
+      <DependentUpon>edytujd.vb</DependentUpon>
+    </Compile>
+    <Compile Include="edytujd.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="edytujdo.Designer.vb">
+      <DependentUpon>edytujdo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="edytujdo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="edytujdw.Designer.vb">
+      <DependentUpon>edytujdw.vb</DependentUpon>
+    </Compile>
+    <Compile Include="edytujdw.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="edytujf.Designer.vb">
+      <DependentUpon>edytujf.vb</DependentUpon>
+    </Compile>
+    <Compile Include="edytujf.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="edytujfo.Designer.vb">
+      <DependentUpon>edytujfo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="edytujfo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="edytujfw.Designer.vb">
+      <DependentUpon>edytujfw.vb</DependentUpon>
+    </Compile>
+    <Compile Include="edytujfw.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="edytujlpo.Designer.vb">
+      <DependentUpon>edytujlpo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="edytujlpo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="edytujlpw.Designer.vb">
+      <DependentUpon>edytujlpw.vb</DependentUpon>
+    </Compile>
+    <Compile Include="edytujlpw.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="edytujlzo.Designer.vb">
+      <DependentUpon>edytujlzo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="edytujlzo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="edytujlzw.Designer.vb">
+      <DependentUpon>edytujlzw.vb</DependentUpon>
+    </Compile>
+    <Compile Include="edytujlzw.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="edytujnrf.Designer.vb">
+      <DependentUpon>edytujnrf.vb</DependentUpon>
+    </Compile>
+    <Compile Include="edytujnrf.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="edytujp.Designer.vb">
+      <DependentUpon>edytujp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="edytujp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="edytujs.Designer.vb">
+      <DependentUpon>edytujs.vb</DependentUpon>
+    </Compile>
+    <Compile Include="edytujs.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dodajs.Designer.vb">
+      <DependentUpon>dodajs.vb</DependentUpon>
+    </Compile>
+    <Compile Include="dodajs.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dodajz.Designer.vb">
+      <DependentUpon>dodajz.vb</DependentUpon>
+    </Compile>
+    <Compile Include="dodajz.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dodajp.Designer.vb">
+      <DependentUpon>dodajp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="dodajp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="edytujus.Designer.vb">
+      <DependentUpon>edytujus.vb</DependentUpon>
+    </Compile>
+    <Compile Include="edytujus.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="edytujz.Designer.vb">
+      <DependentUpon>edytujz.vb</DependentUpon>
+    </Compile>
+    <Compile Include="edytujz.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Logowanie.Designer.vb">
+      <DependentUpon>Logowanie.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Logowanie.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="oddo.Designer.vb">
+      <DependentUpon>oddo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="oddo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pyt1.Designer.vb">
+      <DependentUpon>pyt1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="pyt1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pyt2.Designer.vb">
+      <DependentUpon>pyt2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="pyt2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="szukajd.Designer.vb">
+      <DependentUpon>szukajd.vb</DependentUpon>
+    </Compile>
+    <Compile Include="szukajd.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="szukajdl.Designer.vb">
+      <DependentUpon>szukajdl.vb</DependentUpon>
+    </Compile>
+    <Compile Include="szukajdl.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="szukajdo.Designer.vb">
+      <DependentUpon>szukajdo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="szukajdo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="szukajdw.Designer.vb">
+      <DependentUpon>szukajdw.vb</DependentUpon>
+    </Compile>
+    <Compile Include="szukajdw.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="szukajf.Designer.vb">
+      <DependentUpon>szukajf.vb</DependentUpon>
+    </Compile>
+    <Compile Include="szukajf.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="szukajfo.Designer.vb">
+      <DependentUpon>szukajfo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="szukajfo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="szukajfw.Designer.vb">
+      <DependentUpon>szukajfw.vb</DependentUpon>
+    </Compile>
+    <Compile Include="szukajfw.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="szukajlpo.Designer.vb">
+      <DependentUpon>szukajlpo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="szukajlpo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="szukajlpw.Designer.vb">
+      <DependentUpon>szukajlpw.vb</DependentUpon>
+    </Compile>
+    <Compile Include="szukajlpw.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="szukajlzo.Designer.vb">
+      <DependentUpon>szukajlzo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="szukajlzo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="szukajlzw.Designer.vb">
+      <DependentUpon>szukajlzw.vb</DependentUpon>
+    </Compile>
+    <Compile Include="szukajlzw.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="szukajnrf.Designer.vb">
+      <DependentUpon>szukajnrf.vb</DependentUpon>
+    </Compile>
+    <Compile Include="szukajnrf.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="szukajp.Designer.vb">
+      <DependentUpon>szukajp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="szukajp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="users.Designer.vb">
+      <DependentUpon>users.vb</DependentUpon>
+    </Compile>
+    <Compile Include="users.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="usun.Designer.vb">
+      <DependentUpon>usun.vb</DependentUpon>
+    </Compile>
+    <Compile Include="usun.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="zhasla.Designer.vb">
+      <DependentUpon>zhasla.vb</DependentUpon>
+    </Compile>
+    <Compile Include="zhasla.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="dodajd.resx">
+      <DependentUpon>dodajd.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dodajdo.resx">
+      <DependentUpon>dodajdo.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dodajdw.resx">
+      <DependentUpon>dodajdw.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dodajf.resx">
+      <DependentUpon>dodajf.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dodajfo.resx">
+      <DependentUpon>dodajfo.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dodajfw.resx">
+      <DependentUpon>dodajfw.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dodajlpo.resx">
+      <DependentUpon>dodajlpo.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dodajlpw.resx">
+      <DependentUpon>dodajlpw.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dodajlzo.resx">
+      <DependentUpon>dodajlzo.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dodajlzw.resx">
+      <DependentUpon>dodajlzw.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dodajnrf.resx">
+      <DependentUpon>dodajnrf.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dodajs.resx">
+      <DependentUpon>dodajs.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dodajp.resx">
+      <DependentUpon>dodajp.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dodajus.resx">
+      <DependentUpon>dodajus.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dodajz.resx">
+      <DependentUpon>dodajz.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dzlogin.resx">
+      <DependentUpon>dzlogin.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="edytujd.resx">
+      <DependentUpon>edytujd.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="edytujdo.resx">
+      <DependentUpon>edytujdo.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="edytujdw.resx">
+      <DependentUpon>edytujdw.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="edytujf.resx">
+      <DependentUpon>edytujf.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="edytujfo.resx">
+      <DependentUpon>edytujfo.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="edytujfw.resx">
+      <DependentUpon>edytujfw.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="edytujlpo.resx">
+      <DependentUpon>edytujlpo.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="edytujlpw.resx">
+      <DependentUpon>edytujlpw.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="edytujlzo.resx">
+      <DependentUpon>edytujlzo.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="edytujlzw.resx">
+      <DependentUpon>edytujlzw.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="edytujnrf.resx">
+      <DependentUpon>edytujnrf.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="edytujp.resx">
+      <DependentUpon>edytujp.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="edytujs.resx">
+      <DependentUpon>edytujs.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="edytujus.resx">
+      <DependentUpon>edytujus.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="edytujz.resx">
+      <DependentUpon>edytujz.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Logowanie.resx">
+      <DependentUpon>Logowanie.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="oddo.resx">
+      <DependentUpon>oddo.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pyt1.resx">
+      <DependentUpon>pyt1.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pyt2.resx">
+      <DependentUpon>pyt2.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="szukajd.resx">
+      <DependentUpon>szukajd.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="szukajdl.resx">
+      <DependentUpon>szukajdl.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="szukajdo.resx">
+      <DependentUpon>szukajdo.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="szukajdw.resx">
+      <DependentUpon>szukajdw.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="szukajf.resx">
+      <DependentUpon>szukajf.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="szukajfo.resx">
+      <DependentUpon>szukajfo.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="szukajfw.resx">
+      <DependentUpon>szukajfw.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="szukajlpo.resx">
+      <DependentUpon>szukajlpo.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="szukajlpw.resx">
+      <DependentUpon>szukajlpw.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="szukajlzo.resx">
+      <DependentUpon>szukajlzo.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="szukajlzw.resx">
+      <DependentUpon>szukajlzw.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="szukajnrf.resx">
+      <DependentUpon>szukajnrf.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="szukajp.resx">
+      <DependentUpon>szukajp.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="users.resx">
+      <DependentUpon>users.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="usun.resx">
+      <DependentUpon>usun.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="zhasla.resx">
+      <DependentUpon>zhasla.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.SQL.Server.Compact.3.5">
+      <Visible>False</Visible>
+      <ProductName>SQL Server Compact 3.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Sql.Server.Express.9.2">
+      <Visible>False</Visible>
+      <ProductName>SQL Server 2005 Express Edition SP2 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="inigkrosno.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="inigkrosno_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>inigkrosno.mdf</DependentUpon>
+    </Content>
+    <None Include="Resources\logo.jpg" />
+    <None Include="Resources\INiG_logo_90px.gif" />
+    <None Include="Resources\press_next.png" />
+    <None Include="Resources\skipover.jpg" />
+    <None Include="Resources\play pushed.png" />
+    <None Include="SekretariatINiG_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

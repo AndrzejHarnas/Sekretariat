@@ -1,0 +1,128 @@
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\bin\Debug\SekretariatINiG.exe.config
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\bin\Debug\SekretariatINiG.exe
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\bin\Debug\SekretariatINiG.pdb
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\bin\Debug\SekretariatINiG.xml
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.glowny.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.Resources.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\SekretariatINiG.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\SekretariatINiG.exe
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\SekretariatINiG.xml
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\SekretariatINiG.pdb
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\bin\Debug\SekretariatINiG.exe.manifest
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\bin\Debug\SekretariatINiG.application
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\SekretariatINiG.exe.manifest
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\SekretariatINiG.application
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.dodajp.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\bin\Debug\inigkrosno.mdf
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\bin\Debug\inigkrosno_log.ldf
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.dodajz.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.dodajs.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.usun.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.edytujp.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.edytujs.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.edytujz.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.szukajp.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.dodajd.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.edytujd.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.szukajd.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.dodajf.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.edytujf.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.szukajf.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.dodajlzo.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.edytujlzo.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.szukajlzo.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.dodajlzw.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.edytujlzw.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.szukajlzw.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.dodajlpo.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.edytujlpo.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.szukajlpo.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.dodajlpw.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.edytujlpw.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.szukajlpw.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.dodajnrf.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.edytujnrf.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.szukajnrf.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.dodajfw.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\bin\Debug\SekretariatINiG.exe.config
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\SekretariatINiG.exe
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\SekretariatINiG.xml
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\SekretariatINiG.pdb
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.dodajd.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.dodajf.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.dodajfw.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.dodajlpo.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.dodajlpw.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.dodajlzo.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.dodajlzw.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.dodajnrf.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.dodajs.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.dodajp.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.dodajz.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.edytujd.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.edytujf.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.edytujfw.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.edytujlpo.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.edytujlpw.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.edytujlzo.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.edytujlzw.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.edytujnrf.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.edytujp.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.edytujs.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.edytujz.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.glowny.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.Resources.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.szukajd.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.szukajf.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.szukajlpo.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.szukajlpw.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.szukajlzo.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.szukajlzw.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.szukajnrf.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.szukajp.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.usun.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\SekretariatINiG.vbproj.GenerateResource.Cache
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\bin\Debug\inigkrosno.mdf
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\bin\Debug\inigkrosno_log.ldf
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\bin\Debug\SekretariatINiG.exe.manifest
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\bin\Debug\SekretariatINiG.application
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\bin\Debug\SekretariatINiG.exe
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\bin\Debug\SekretariatINiG.pdb
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\bin\Debug\SekretariatINiG.xml
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\SekretariatINiG.exe.manifest
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\SekretariatINiG.application
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.szukajfw.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.dodajfo.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.edytujfo.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.szukajfo.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.Logowanie.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.dodajdo.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.edytujdo.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.szukajdo.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.dodajdw.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.edytujdw.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.szukajdw.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.dodajdo.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.dodajdw.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.dodajfo.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.edytujdo.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.edytujdw.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.edytujfo.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.edytujfw.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.Logowanie.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.szukajdo.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.szukajdw.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.szukajfo.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.szukajfw.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.oddo.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.oddo.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.pyt1.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.pyt2.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.users.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.dodajus.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.edytujus.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.dzlogin.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.zhasla.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Debug\Sekretariat.szukajdl.resources

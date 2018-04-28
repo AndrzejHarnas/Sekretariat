@@ -1,0 +1,12 @@
+C:\Documents and Settings\Madzia\Ustawienia lokalne\Dane aplikacji\Temporary Projects\Sekretariat\bin\Debug\MyDatabase#1.sdf
+C:\Documents and Settings\Madzia\Ustawienia lokalne\Dane aplikacji\Temporary Projects\Sekretariat\bin\Debug\Sekretariat.exe.config
+C:\Documents and Settings\Madzia\Ustawienia lokalne\Dane aplikacji\Temporary Projects\Sekretariat\bin\Debug\Sekretariat.exe
+C:\Documents and Settings\Madzia\Ustawienia lokalne\Dane aplikacji\Temporary Projects\Sekretariat\bin\Debug\Sekretariat.pdb
+C:\Documents and Settings\Madzia\Ustawienia lokalne\Dane aplikacji\Temporary Projects\Sekretariat\bin\Debug\Sekretariat.xml
+C:\Documents and Settings\Madzia\Ustawienia lokalne\Dane aplikacji\Temporary Projects\Sekretariat\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Madzia\Ustawienia lokalne\Dane aplikacji\Temporary Projects\Sekretariat\obj\Debug\Sekretariat.Resources.resources
+C:\Documents and Settings\Madzia\Ustawienia lokalne\Dane aplikacji\Temporary Projects\Sekretariat\obj\Debug\Sekretariat.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Madzia\Ustawienia lokalne\Dane aplikacji\Temporary Projects\Sekretariat\obj\Debug\Sekretariat.exe
+C:\Documents and Settings\Madzia\Ustawienia lokalne\Dane aplikacji\Temporary Projects\Sekretariat\obj\Debug\Sekretariat.xml
+C:\Documents and Settings\Madzia\Ustawienia lokalne\Dane aplikacji\Temporary Projects\Sekretariat\obj\Debug\Sekretariat.pdb
+C:\Documents and Settings\Madzia\Ustawienia lokalne\Dane aplikacji\Temporary Projects\Sekretariat\obj\Debug\Sekretariat.glowny.resources

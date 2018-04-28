@@ -1,0 +1,128 @@
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\bin\Release\SekretariatINiG.exe.config
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\bin\Release\SekretariatINiG.exe
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\bin\Release\SekretariatINiG.pdb
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\bin\Release\SekretariatINiG.xml
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.glowny.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.Resources.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\SekretariatINiG.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\SekretariatINiG.exe
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\SekretariatINiG.xml
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\SekretariatINiG.pdb
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.dodajp.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\bin\Release\inigkrosno.mdf
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\bin\Release\inigkrosno_log.ldf
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\bin\Release\SekretariatINiG.exe.manifest
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\bin\Release\SekretariatINiG.application
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\SekretariatINiG.exe.manifest
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\SekretariatINiG.application
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.usun.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.dodajs.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.dodajz.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.edytujp.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.edytujs.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.edytujz.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.szukajp.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.dodajd.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.edytujd.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.szukajd.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.dodajf.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.dodajlpo.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.dodajlzo.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.dodajlzw.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.edytujf.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.edytujlpo.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.edytujlzo.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.edytujlzw.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.szukajf.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.szukajlzo.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.szukajlzw.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.szukajlpo.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\ResolveAssemblyReference.cache
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.dodajd.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.dodajf.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.dodajfw.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.dodajlpo.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.dodajlpw.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.dodajlzo.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.dodajlzw.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.dodajnrf.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.dodajs.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.dodajp.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.dodajz.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.edytujd.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.edytujf.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.edytujfw.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.edytujlpo.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.edytujlpw.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.edytujlzo.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.edytujlzw.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.edytujnrf.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.edytujp.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.edytujs.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.edytujz.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.glowny.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.Resources.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.szukajd.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.szukajf.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.szukajlpo.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.szukajlpw.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.szukajlzo.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.szukajlzw.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.szukajnrf.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.szukajp.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.usun.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\SekretariatINiG.vbproj.GenerateResource.Cache
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\SekretariatINiG.exe
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\SekretariatINiG.xml
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\SekretariatINiG.pdb
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\bin\Release\SekretariatINiG.exe.config
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\bin\Release\inigkrosno.mdf
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\bin\Release\inigkrosno_log.ldf
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\bin\Release\SekretariatINiG.exe.manifest
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\bin\Release\SekretariatINiG.application
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\bin\Release\SekretariatINiG.exe
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\bin\Release\SekretariatINiG.pdb
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\bin\Release\SekretariatINiG.xml
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\SekretariatINiG.exe.manifest
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\SekretariatINiG.application
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.dodajdo.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.dodajdw.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.dodajfo.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.edytujdo.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.edytujdw.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.edytujfo.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.Logowanie.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.szukajdo.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.szukajdw.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.szukajfo.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.szukajfw.resources
+C:\Users\mik\Documents\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.oddo.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.dodajdo.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.dodajdw.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.dodajfo.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.dodajfw.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.dodajlpw.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.dodajnrf.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.edytujdo.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.edytujdw.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.edytujfo.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.edytujfw.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.edytujlpw.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.edytujnrf.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.Logowanie.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.oddo.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.pyt1.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.pyt2.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.szukajdo.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.szukajdw.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.szukajfo.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.szukajfw.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.szukajlpw.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.szukajnrf.resources
+C:\Documents and Settings\Madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.users.resources
+C:\Documents and Settings\madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.dodajus.resources
+C:\Documents and Settings\madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.dzlogin.resources
+C:\Documents and Settings\madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.edytujus.resources
+C:\Documents and Settings\madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.szukajdl.resources
+C:\Documents and Settings\madzia\Moje dokumenty\Visual Studio 2008\Projects\SekretariatINiG\SekretariatINiG\obj\Release\Sekretariat.zhasla.resources
